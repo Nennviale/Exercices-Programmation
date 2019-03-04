@@ -26,5 +26,3 @@ joueur = {'name': 'Arthur','level': 35, 'inventory': ['sac','lampe','couteau']}
 print(joueur)
 
 
-joueur = {'name': 'Arthur','level': 35, 'inventory': ['sac','lampe','couteau']}
-print(joueur)
